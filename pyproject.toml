@@ -12,6 +12,8 @@ dependencies = [
     "fastapi[standard]>=0.121.1",
     "faker (>=38.2.0,<39.0.0)",
     "factory-boy (>=3.3.3,<4.0.0)",
+    "pydantic-settings (>=2.12.0,<3.0.0)",
+    "alembic (>=1.18.1,<2.0.0)",
 ]
 
 
